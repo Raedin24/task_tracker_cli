@@ -16,7 +16,11 @@ php task_tracker_cli.php [action] [parameters]
 - `add [task id] [task description]`
 - `update [task id] [new description]`
 - `delete [task id]`
-- `list [done|in-progress|todo]`
+- `list *[done|in-progress|todo]`
 - `mark [task id] [done|in-progress|todo]`
 
 - `-h or --help ` - Display help information
+
+* - Optional parameter
+
+This project was built for learning purposes, following the instructions on [Task Tracker CLI](https://roadmap.sh/projects/task-tracker) on roadmap.sh.
