@@ -21,6 +21,6 @@ php task_tracker_cli.php [action] [parameters]
 
 - `-h or --help ` - Display help information
 
-* - Optional parameter
+\* - Optional parameter
 
-This project was built for learning purposes, following the instructions on [Task Tracker CLI](https://roadmap.sh/projects/task-tracker) on roadmap.sh.
+This project was built for learning purposes, following the instructions on [Task Tracker CLI](https://roadmap.sh/projects/task-tracker) on [roadmap.sh](https://roadmap.sh).
